@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/0xvanguard/0xvanguard/blob/main/banner-hacktivist.png" width="100%" />
+  <img src="https://github.com/0xvanguard/0xvanguard/blob/main/assets/generated-image_2026-06-13_13-29-15-919.png" width="100%" />
 </p>
 
 # John Camargo | DEVSECOPS WARRIOR & CYBER SECURITY OPERATIVE
