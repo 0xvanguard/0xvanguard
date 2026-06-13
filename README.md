@@ -39,7 +39,7 @@ Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — co
 - ⚡ Desarrollo frameworks OSINT en Python que anticipan amenazas emergentes
 - 🧠 Gestión estratégica de riesgos, threat hunting y respuesta a incidentes
 - 🎓 Cursando Ingeniería en Seguridad de la Información — Politécnico Grancolombiano
-- 🌟 Especializado en **Hacking Ético y DevSecOps** — CIIF LATAM
+- 🔥 **350 horas** de especialización en Hacking Ético y DevSecOps — CIIP LATAM
 
 > Disponible para **colaboración remota internacional** en proyectos de IA, ciberseguridad y soluciones disruptivas de impacto global.
 
@@ -96,7 +96,7 @@ Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — co
 - Pentesting · Red Team · Blue Team · OSINT · SIEM (Wazuh, Snort) · MITRE ATT&CK · Respuesta a incidentes · Automatización de seguridad
 
 ### Herramientas
-- Burp Suite · Nmap · Metasploit · ZAP · Git · CI/CD pipelines (Jenkins, GitHub Actions)
+- Burp Suite · Nmap · Metasploit · ZAP · Shodan · Maltego · MobSF · Frida · SQLmap · Git · CI/CD pipelines (Jenkins, GitHub Actions)
 
 ---
 
@@ -120,13 +120,26 @@ Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — co
 
 ## 🎓 Formación & Certificaciones
 
-- 🎓 Ingeniería en Seguridad de la Información | **Politécnico Grancolombiano** (2026 – 2030)
-- 🎓 Técnico en Sistemas Teleinformáticos | **SENA** (2024 – 2025)
-- 🔥 Especialización en **Hacking Ético y DevSecOps** | **CIIF LATAM**
-- 📜 Certificaciones oficiales:
-  - **Offensive Security Certified Professional (OSCP)** – En progreso
-  - **Burp Suite Certified Practitioner**
-  - **Certificación en MITRE ATT&CK**
+### 🌖 Educación
+- 🎓 Ingeniería en Seguridad de la Información | **Politécnico Grancolombiano** *(2026 – 2030)*
+- 🎓 Técnico en Sistemas Teleinformáticos | **SENA** *(2024 – 2025)*
+
+### 🔥 Especialización — 350 horas en Hacking Ético y DevSecOps | CIIP LATAM *(2025)*
+
+| Módulo | Herramientas & Skills |
+|--------|----------------------|
+| 🔴 Bloque de Ataque (Red Team) | OSINT · Nmap · Shodan · Maltego · Metasploit · Escalada de Privilegios · Persistencia |
+| 🔵 Bloque de Defensa (SOC / Blue Team) | SIEM · Wazuh · Snort · Respuesta a Incidentes |
+| 📱 Seguridad en Apps Web & Phishing | Burp Suite · SQLmap · OWASP Top 10 · Phishing |
+| 📱 Hacking Ético Móvil | Pentesting Móvil · MobSF · Frida · ADB |
+| ☁️ DevSecOps & Cloud Security | Docker · Kubernetes · AWS · SAST · DAST · Jenkins · OWASP Top 10 API |
+
+### 📜 Certificaciones Adicionales
+
+- 🔍 **Inteligencia de Fuente Abierta (OSINT)** | Basel Institute on Governance *(dic. 2025)*
+- 🛡️ **Introduction to Cybersecurity** | **Cisco** *(nov. 2025)* — [Ver credencial](https://www.credly.com/badges/d9638a8a-ae5e-4259-9473-e4d91ff1a558/linked_in_profile)
+- 💻 **Cybersecurity Fundamentals for Beginners** | **EC-Council** *(oct. 2025)* — [Ver credencial](https://learn.eccouncil.org/certificate/fb33df22-ffe5-46a1-bb20-b0eb0feb8f8d)
+- 🎯 **Offensive Security Certified Professional (OSCP)** – *En progreso*
 
 ---
 
@@ -155,6 +168,8 @@ Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — co
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![EC-Council](https://img.shields.io/badge/EC--Council-FF0000?style=for-the-badge&logo=ec-council&logoColor=white)
 
 ---
 
