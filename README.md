@@ -1,5 +1,5 @@
 <p align="center" style="margin:0; padding:0;">
-  <img src="https://github.com/0xvanguard/0xvanguard/blob/main/assets/generated-image_2026-06-13_13-29-15-919.png" alt="Banner" style="height:280px; display:block; margin:0; padding:0;" />
+  <img src="https://github.com/0xvanguard/0xvanguard/blob/main/bug.png" alt="Banner" style="height:280px; display:block; margin:0; padding:0;" />
   </p>
 
 </p>
