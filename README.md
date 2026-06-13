@@ -29,3 +29,32 @@
 + Automation       █████████████████░░░ 80%
 + Pentesting       ████████████░░░░░░░ 65%
 + OSINT            ████████████░░░░░░░ 65%
+
+
+🎯 Mission-critical Projects
+Framework-OSINT
+
+Automated OSINT intelligence gathering framework, battle-tested in real-world engagements.
+GitHub Repo | Python · Automation · APIs
+Job Search Roadmap
+
+The ultimate tactical guide for tech job hunting — designed, tested, and proven.
+GitHub Repo | Markdown · Strategy · Workflow
+📊 Operation Stats
+
+GitHub Stats
+🎓 Training & Certifications
+
+    Ingeniería en Seguridad de la Información | Politécnico Grancolombiano (2026 - 2030)
+    Técnico en Sistemas Teleinformáticos | SENA (2024 - 2025)
+    Certified in: Pentesting, Red Team, Burp Suite, OWASP, MITRE ATT&CK
+
+⚡ Connect & Collaborate
+
+Let's build digital fortresses and break down weaknesses. Reach out for collabs, projects, or cyber missions.
+
+📧 johnc8campestre@gmail.com
+🔗 LinkedIn
+🐙 GitHub
+
+“No secrets, only challenges waiting to be conquered.”
