@@ -1,68 +1,70 @@
 <p align="center">
-  <img src="https://github.com/0xvanguard/0xvanguard/blob/main/banner-profesional.png" alt="Banner Profesional" width="100%"/>
+  <img src="https://github.com/0xvanguard/0xvanguard/blob/main/banner-hacker-style.png" alt="Banner Hacker Level CIA" width="100%" />
 </p>
 
-# John Camargo | Ingeniero en DevSecOps & Seguridad de la Información
+# John Camargo | DEVSECOPS WARRIOR & CYBER SECURITY OPERATIVE
 
 ---
 
-Profesional de ciberseguridad y DevSecOps con experiencia comprobada en el diseño, implementación y gestión de infraestructuras tecnológicas seguras y escalables. Comprometido con la protección de activos digitales, la innovación tecnológica y el cumplimiento normativo en entornos complejos.
+> *"Cuando la seguridad es una misión, la innovación y el pensamiento disruptivo son la munición."*
 
 ---
 
-## Áreas de Especialización
+## 🛡️ Operador en Seguridad Digital & Arquitecto de Infraestructura Blindada
 
-- Seguridad de la Información y Gestión de Riesgos  
-- Automatización y Orquestación de Infraestructuras Cloud  
-- Desarrollo y Auditoría de Soluciones Seguras  
-- Análisis Forense Digital y Respuesta a Incidentes  
-- Pentesting y Evaluación de Vulnerabilidades  
-- Herramientas y Frameworks: Python, SIEM, Wazuh, Snort, MITRE ATT&CK  
+Especialista en construir y defender sistemas ultra seguros, automatizando la defensa y cercando vulnerabilidades con precisión quirúrgica. Experto en convertir activos digitales en fortalezas inexpugnables.
 
----
-
-## Acerca de mí
-
-Con una formación sólida en Ingeniería de Seguridad de la Información y un enfoque autodidacta constante, aplico metodologías avanzadas para fortalecer la resiliencia tecnológica de organizaciones públicas y privadas.
-
-Lidero proyectos que integran seguridad desde el diseño hasta la operación, garantizando la confidencialidad, integridad y disponibilidad de la información crítica.
+- 👾 Maestro en Python scripting para automatización de investigaciones OSINT y hacking ético
+- 🧬 Arquitecto de infraestructuras escalables y resilientes en la nube
+- 🕵️‍♂️ Cazador de amenazas, analista forense y estratega en respuesta rápida a incidentes
+- ☠️ Penetration testing, Red Team operations y manejo avanzado de frameworks MITRE ATT&CK
 
 ---
 
-## Contacto Profesional
+## ⚙️ Mi arsenal tecnológico
 
-- 📧 johnc8campestre@gmail.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/johncamargo-devsecops)  
-- 🐙 [GitHub](https://github.com/0xvanguard)  
+| Lenguajes & Tools                        | Frameworks & Plataformas                   | Seguridad & Monitoreo                           |
+|-----------------------------------------|-------------------------------------------|------------------------------------------------|
+| Python, Bash, PowerShell                 | Kubernetes, Docker, Terraform             | SIEM, Wazuh, Snort, Burp Suite, OWASP         |
+| Linux Administration                     | Cloud AWS, Azure, GCP                      | MITRE ATT&CK, Threat Hunting, Forense Digital  |
+
+---
+
+## 🚀 Proyectos top-secret desclasificados
+
+| Proyecto                                                  | Impacto                                    | Tecnologías                              |
+|-----------------------------------------------------------|--------------------------------------------|------------------------------------------|
+| [Framework-OSINT](https://github.com/0xvanguard/Framework-OSINT) | Automatiza recolección y análisis de datos OSINT | Python, APIs, Automatización             |
+| [Job Search Roadmap](https://github.com/0xvanguard/job-search-roadmap) | Guía definitiva y disruptiva para dominar tu búsqueda laboral en tecnología | Markdown, Estrategia, Automatización     |
 
 ---
 
-## Proyectos Destacados
-
-| Proyecto                                   | Descripción breve                                              | Tecnologías                            |
-|--------------------------------------------|---------------------------------------------------------------|--------------------------------------|
-| [Job Search Roadmap](https://github.com/0xvanguard/job-search-roadmap) | Guía exhaustiva para la búsqueda de empleo en tecnología       | Markdown, Estrategia, Automatización |
-| [Framework OSINT](https://github.com/0xvanguard/Framework-OSINT)      | Herramienta automatizada para recolección de información OSINT | Python, Automatización                |
-
----
+## 📡 Estado de Operaciones en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xvanguard&show_icons=true&count_private=true&theme=default" alt="John's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xvanguard&show_icons=true&count_private=true&theme=radical" alt="Estadísticas de GitHub" />
 </p>
 
 ---
 
-## Formación Académica y Certificaciones
+## 📚 Formación y Certificaciones de Combate Cibernético
 
-- Ingeniería en Seguridad de la Información, Politécnico Grancolombiano (2026 - 2030)  
-- Técnico en Sistemas Teleinformáticos, SENA (2024 - 2025)  
-- Certificaciones en Pentesting, Red Teaming y Seguridad Aplicada (Burp Suite, OWASP, MITRE ATT&CK)  
-
----
-
-Gracias por visitar mi perfil. Estoy abierto a colaboraciones profesionales, propuestas de proyectos y oportunidades que impulsen la seguridad y la innovación tecnológica.
+- Ingeniería en Seguridad de la Información | Politécnico Grancolombiano (2026 - 2030)  
+- Técnico en Sistemas Teleinformáticos | SENA (2024 - 2025)  
+- Certificaciones tácticas: Pentesting, Red Team, Seguridad Aplicada (Burp Suite, OWASP, MITRE ATT&CK)
 
 ---
 
-*Este perfil es mantenido con estándares de calidad y compromiso profesional.*
+## 📞 Contacto en la Red Oscura
 
+📧 johnc8campestre@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/johncamargo-devsecops)  
+🐙 [GitHub](https://github.com/0xvanguard)  
+
+---
+
+*“No hay secretos, solo desafíos no conquistados.”*
+
+---
+
+*Este perfil es una fortaleza digital mantenida con precisión quirúrgica y pasión hacker.*
