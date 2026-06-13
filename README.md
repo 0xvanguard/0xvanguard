@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&width=700&lines=0xvanguard+%7C+DevSecOps+Warrior;Red+Team+%7C+OSINT+%7C+Automation;Hack.+Defend.+Automate.+Repeat.;It's+not+a+bug%2C+it's+a+feature+to+exploit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CC00FF&center=true&width=700&lines=0xvanguard+%7C+Purple+Team+Operative;Red+%2B+Blue+%3D+Purple+%7C+Attack+%26+Defend;Threat+Hunting+%7C+OSINT+%7C+Automation;It's+not+a+bug%2C+it's+a+feature+to+exploit" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xvanguard&color=00ff41&style=for-the-badge&label=OPERATIVES+TRACKED" />
+  <img src="https://komarev.com/ghpvc/?username=0xvanguard&color=9400D3&style=for-the-badge&label=OPERATIVES+TRACKED" />
 </p>
 
 ---
@@ -15,9 +15,9 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  root@0xvanguard:~# whoami                               ║
-║  > John Camargo — DevSecOps Warrior & Cyber Operative    ║
+║  > John Camargo — Purple Team Operative                  ║
 ║  root@0xvanguard:~# cat mission.txt                      ║
-║  > Hack. Defend. Automate. Repeat.                       ║
+║  > Attack like Red. Defend like Blue. Think Purple.      ║
 ║  root@0xvanguard:~# cat motto.txt                        ║
 ║  > "No solo rompo códigos, cambio paradigmas." 💀        ║
 ╚══════════════════════════════════════════════════════════╝
@@ -25,13 +25,28 @@
 
 ---
 
+## 🟣 Purple Team Philosophy
+
+> El **Purple Team** no es un equipo — es una **mentalidad**.
+> Combina la agresividad del Red Team con la resiliencia del Blue Team
+> para construir defensas que ya conocen el ataque.
+
+| 🔴 Red Team Skills       | 🔵 Blue Team Skills          | 🟣 Purple Outcome                  |
+|--------------------------|------------------------------|------------------------------------|
+| Pentesting & Exploitation| SIEM & Log Analysis          | Threat-informed defense            |
+| OSINT & Recon            | Incident Response            | Adversary emulation continua       |
+| Social Engineering       | Threat Hunting               | Ciclo ATT&CK automatizado          |
+| Evasion Techniques       | Hardening & Patching         | Detección proactiva de amenazas    |
+
+---
+
 ## 🕶️ Perfil
 
-| 🚩 Rol                 | 🌍 Ubicación             | 📬 Contacto                                                   |
-|------------------------|--------------------------|---------------------------------------------------------------|
-| DevSecOps Engineer     | Bogotá D.C., Colombia    | 📧 johnc8campestre@gmail.com                                  |
-| Cybersecurity Ninja    |                          | 🔗 [LinkedIn](https://linkedin.com/in/johncamargo-devsecops) |
-| Automation Guru        |                          | 🐙 [GitHub](https://github.com/0xvanguard)                   |
+| 🚩 Rol                   | 🌍 Ubicación             | 📬 Contacto                                                   |
+|--------------------------|--------------------------|---------------------------------------------------------------|
+| Purple Team Operative    | Bogotá D.C., Colombia    | 📧 johnc8campestre@gmail.com                                  |
+| DevSecOps Engineer       |                          | 🔗 [LinkedIn](https://linkedin.com/in/johncamargo-devsecops) |
+| Threat Hunting Specialist|                          | 🐙 [GitHub](https://github.com/0xvanguard)                   |
 
 ---
 
@@ -54,7 +69,7 @@
 - Linux (administración avanzada) · AWS · Azure · GCP · Kubernetes · Docker · Terraform
 
 ### Seguridad & DevSecOps
-- Pentesting · Red Team · OSINT · SIEM (Wazuh, Snort) · MITRE ATT&CK · Respuesta a incidentes · Automatización de seguridad
+- Pentesting · Red Team · Blue Team · OSINT · SIEM (Wazuh, Snort) · MITRE ATT&CK · Respuesta a incidentes · Automatización de seguridad
 
 ### Herramientas
 - Burp Suite · Nmap · Metasploit · ZAP · Git · CI/CD pipelines (Jenkins, GitHub Actions)
@@ -64,7 +79,7 @@
 ## ⚡ Arsenal — Nivel de Dominio
 
 ```diff
-+ Python          ███████████████░░░░░ 85%
++ Python          ████████████████░░░░ 85%
 + Linux/Cloud     ██████████████████░░ 90%
 + DevSecOps       ███████████████████░ 95%
 + Automation      █████████████████░░░ 85%
@@ -72,6 +87,8 @@
 + AWS             ████████████████░░░░ 80%
 + Pentesting      ████████████░░░░░░░░ 65%
 + OSINT           ████████████░░░░░░░░ 65%
++ Threat Hunting  ██████████████░░░░░░ 70%
++ Incident Resp.  █████████████░░░░░░░ 65%
 ```
 
 ---
@@ -156,5 +173,5 @@
 ---
 
 <p align="center">
-  <i>"The quieter you become, the more you are able to hear." — Kali Linux</i>
+  <i>"Attack like Red. Defend like Blue. Think Purple." — 0xvanguard</i>
 </p>
