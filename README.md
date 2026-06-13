@@ -17,7 +17,7 @@ Especialista en construir y defender sistemas ultra seguros, automatizando la de
 - 👾 Maestro en Python scripting para automatización de investigaciones OSINT y hacking ético
 - 🧬 Arquitecto de infraestructuras escalables y resilientes en la nube
 - 🕵️‍♂️ Cazador de amenazas, analista forense y estratega en respuesta rápida a incidentes
-- ☠️ Penetration testing, Red Team operations y manejo avanzado de frameworks MITRE ATT&CK
+- ☠️ Penetration testing, Purple Team operations y manejo avanzado de frameworks MITRE ATT&CK
 
 ---
 
