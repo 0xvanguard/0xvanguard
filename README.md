@@ -39,6 +39,7 @@ Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — co
 - ⚡ Desarrollo frameworks OSINT en Python que anticipan amenazas emergentes
 - 🧠 Gestión estratégica de riesgos, threat hunting y respuesta a incidentes
 - 🎓 Cursando Ingeniería en Seguridad de la Información — Politécnico Grancolombiano
+- 🌟 Especializado en **Hacking Ético y DevSecOps** — CIIF LATAM
 
 > Disponible para **colaboración remota internacional** en proyectos de IA, ciberseguridad y soluciones disruptivas de impacto global.
 
@@ -121,6 +122,7 @@ Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — co
 
 - 🎓 Ingeniería en Seguridad de la Información | **Politécnico Grancolombiano** (2026 – 2030)
 - 🎓 Técnico en Sistemas Teleinformáticos | **SENA** (2024 – 2025)
+- 🔥 Especialización en **Hacking Ético y DevSecOps** | **CIIF LATAM**
 - 📜 Certificaciones oficiales:
   - **Offensive Security Certified Professional (OSCP)** – En progreso
   - **Burp Suite Certified Practitioner**
