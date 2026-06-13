@@ -3,10 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CC00FF&center=true&width=700&lines=0xvanguard+%7C+Purple+Team+Operative;Red+%2B+Blue+%3D+Purple+%7C+Attack+%26+Defend;Threat+Hunting+%7C+OSINT+%7C+Automation;It's+not+a+bug%2C+it's+a+feature+to+exploit" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CC00FF&center=true&width=700&lines=0xvanguard+%7C+Purple+Team+Operative;Red+%2B+Blue+%3D+Purple+%7C+Attack+%26+Defend;Threat+Hunting+%7C+OSINT+%7C+Automation;Open+to+Global+Collaboration+%7C+AI+%2B+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/johncamargo-devsecops">
+    <img src="https://img.shields.io/badge/LinkedIn-johncamargo--devsecops-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:johnc8campestre@gmail.com">
+    <img src="https://img.shields.io/badge/Email-johnc8campestre@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=0xvanguard&color=9400D3&style=for-the-badge&label=OPERATIVES+TRACKED" />
 </p>
 
@@ -15,7 +21,7 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  root@0xvanguard:~# whoami                               ║
-║  > John Camargo — Purple Team Operative                  ║
+║  > John Sebastian Camargo — Purple Team Operative       ║
 ║  root@0xvanguard:~# cat mission.txt                      ║
 ║  > Attack like Red. Defend like Blue. Think Purple.      ║
 ║  root@0xvanguard:~# cat motto.txt                        ║
@@ -25,28 +31,40 @@
 
 ---
 
-## 🟣 Purple Team Philosophy
+## 💼 Sobre Mí — About
 
-> El **Purple Team** no es un equipo — es una **mentalidad**.
-> Combina la agresividad del Red Team con la resiliencia del Blue Team
-> para construir defensas que ya conocen el ataque.
+Soy **John Sebastian Camargo**, profesional en ciberseguridad y automatización con enfoque **Purple Team** — la intersección entre atacar y defender sistemas para construir soluciones más resistentes.
 
-| 🔴 Red Team Skills       | 🔵 Blue Team Skills          | 🟣 Purple Outcome                  |
-|--------------------------|------------------------------|------------------------------------|
-| Pentesting & Exploitation| SIEM & Log Analysis          | Threat-informed defense            |
-| OSINT & Recon            | Incident Response            | Adversary emulation continua       |
-| Social Engineering       | Threat Hunting               | Ciclo ATT&CK automatizado          |
-| Evasion Techniques       | Hardening & Patching         | Detección proactiva de amenazas    |
+Busco activamente **colaborar con equipos y empresas de cualquier país del mundo** que estén trabajando en:
+- 🤖 **Automatización con IA** aplicada a seguridad, procesos o productos
+- 🚀 **Proyectos disruptivos** que resuelvan problemas reales del planeta
+- 🔐 **Soluciones de ciberseguridad** escalables para empresas e infraestructuras críticas
+- 🌍 **Ideas innovadoras** con impacto global
+
+> Disponible para trabajo **remoto internacional**, colaboraciones open source, freelance y posiciones full-time.
 
 ---
 
-## 🕶️ Perfil
+## 🕶️ Información de Contacto
 
-| 🚩 Rol                   | 🌍 Ubicación             | 📬 Contacto                                                   |
-|--------------------------|--------------------------|---------------------------------------------------------------|
-| Purple Team Operative    | Bogotá D.C., Colombia    | 📧 johnc8campestre@gmail.com                                  |
-| DevSecOps Engineer       |                          | 🔗 [LinkedIn](https://linkedin.com/in/johncamargo-devsecops) |
-| Threat Hunting Specialist|                          | 🐙 [GitHub](https://github.com/0xvanguard)                   |
+| 🚩 Rol                    | 🌍 Ubicación             | 📬 Contacto                                                              |
+|---------------------------|--------------------------|----------------------------------------------------------------------------|
+| Purple Team Operative     | Bogotá D.C., Colombia    | 📧 johnc8campestre@gmail.com                                              |
+| DevSecOps Engineer        | 🌐 Remoto Internacional  | 🔗 [LinkedIn](https://linkedin.com/in/johncamargo-devsecops)              |
+| Threat Hunting Specialist |                          | 🐙 [GitHub](https://github.com/0xvanguard)                               |
+
+---
+
+## 💼 Experiencia Profesional
+
+### 🏬 Agunsa Logistics — Técnico en Sistemas
+`Bogotá, Colombia | 2024 – 2025 | Pasantía (6 meses)`
+
+- 🖥️ Mantenimiento preventivo y correctivo de equipos de cómputo (hardware y software)
+- 🗳️ Gestión y control de inventario de activos tecnológicos
+- 🔧 Diagnóstico y reparación de impresoras y periféricos
+- 🤝 Soporte técnico a usuarios finales: resolución de errores de conectividad e internet
+- 🧹 Limpieza y optimización de hardware para mejorar rendimiento operativo
 
 ---
 
@@ -57,6 +75,22 @@
 - 🤖 Automatizando threat hunting con Python + SIEM
 - 🌐 Contribuyendo a proyectos open source de seguridad
 - 📡 Desarrollando Framework OSINT de próxima generación
+- 🌟 Buscando colaborar con equipos globales en proyectos de alto impacto
+
+---
+
+## 🟣 Purple Team Philosophy
+
+> El **Purple Team** no es un equipo — es una **mentalidad**.
+> Combina la agresividad del Red Team con la resiliencia del Blue Team
+> para construir defensas que ya conocen el ataque.
+
+| 🔴 Red Team Skills        | 🔵 Blue Team Skills         | 🟣 Purple Outcome                 |
+|---------------------------|-----------------------------|---------------------------------|
+| Pentesting & Exploitation | SIEM & Log Analysis         | Threat-informed defense         |
+| OSINT & Recon             | Incident Response           | Adversary emulation continua    |
+| Social Engineering        | Threat Hunting              | Ciclo ATT&CK automatizado       |
+| Evasion Techniques        | Hardening & Patching        | Detección proactiva de amenazas |
 
 ---
 
@@ -89,6 +123,7 @@
 + OSINT           ████████████░░░░░░░░ 65%
 + Threat Hunting  ██████████████░░░░░░ 70%
 + Incident Resp.  █████████████░░░░░░░ 65%
++ AI Automation   ███████████████░░░░░ 75%
 ```
 
 ---
@@ -168,7 +203,28 @@
 - 🤝 Trabajo colaborativo y multidisciplinario
 - 📋 Gestión ágil de proyectos (Scrum, Kanban)
 - 🔍 Pensamiento crítico orientado a resultados
-- 🌎 Mentalidad global y adaptabilidad en entornos remotos
+- 🌎 Mentalidad global y adaptabilidad en entornos 100% remotos
+
+---
+
+## 🌐 Abierto a Colaboración Global
+
+<p align="center">
+
+¿Tienes un proyecto disruptivo, una startup de IA, una solución de seguridad global o una idea que cambie el mundo?
+
+**¡Hablemos!** Estoy disponible para colaborar desde Colombia con cualquier equipo del planeta.
+
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/johncamargo-devsecops">
+    <img src="https://img.shields.io/badge/Conectar_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:johnc8campestre@gmail.com">
+    <img src="https://img.shields.io/badge/Enviar_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
