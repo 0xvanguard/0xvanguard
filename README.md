@@ -31,27 +31,16 @@
 
 ---
 
-## 💼 Sobre Mí — About
+## 💼 Sobre Mí
 
-Soy **John Sebastian Camargo**, profesional en ciberseguridad y automatización con enfoque **Purple Team** — la intersección entre atacar y defender sistemas para construir soluciones más resistentes.
+Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — combino automatización, innovación y seguridad para transformar amenazas en oportunidades de resiliencia empresarial.
 
-Busco activamente **colaborar con equipos y empresas de cualquier país del mundo** que estén trabajando en:
-- 🤖 **Automatización con IA** aplicada a seguridad, procesos o productos
-- 🚀 **Proyectos disruptivos** que resuelvan problemas reales del planeta
-- 🔐 **Soluciones de ciberseguridad** escalables para empresas e infraestructuras críticas
-- 🌍 **Ideas innovadoras** con impacto global
+- 🔐 Construyo infraestructuras seguras, escalables y automatizadas en Linux y Cloud
+- ⚡ Desarrollo frameworks OSINT en Python que anticipan amenazas emergentes
+- 🧠 Gestión estratégica de riesgos, threat hunting y respuesta a incidentes
+- 🎓 Cursando Ingeniería en Seguridad de la Información — Politécnico Grancolombiano
 
-> Disponible para trabajo **remoto internacional**, colaboraciones open source, freelance y posiciones full-time.
-
----
-
-## 🕶️ Información de Contacto
-
-| 🚩 Rol                    | 🌍 Ubicación             | 📬 Contacto                                                              |
-|---------------------------|--------------------------|----------------------------------------------------------------------------|
-| Purple Team Operative     | Bogotá D.C., Colombia    | 📧 johnc8campestre@gmail.com                                              |
-| DevSecOps Engineer        | 🌐 Remoto Internacional  | 🔗 [LinkedIn](https://linkedin.com/in/johncamargo-devsecops)              |
-| Threat Hunting Specialist |                          | 🐙 [GitHub](https://github.com/0xvanguard)                               |
+> Disponible para **colaboración remota internacional** en proyectos de IA, ciberseguridad y soluciones disruptivas de impacto global.
 
 ---
 
@@ -210,11 +199,8 @@ Busco activamente **colaborar con equipos y empresas de cualquier país del mund
 ## 🌐 Abierto a Colaboración Global
 
 <p align="center">
-
-¿Tienes un proyecto disruptivo, una startup de IA, una solución de seguridad global o una idea que cambie el mundo?
-
-**¡Hablemos!** Estoy disponible para colaborar desde Colombia con cualquier equipo del planeta.
-
+¿Tienes un proyecto disruptivo, una startup de IA, una solución de seguridad global o una idea que cambie el mundo?<br/>
+<b>¡Hablemos!</b> Estoy disponible para colaborar desde Colombia con cualquier equipo del planeta.
 </p>
 
 <p align="center">
