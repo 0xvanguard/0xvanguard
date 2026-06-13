@@ -132,10 +132,10 @@
 
 ---
 
-## 🏆 CTF & Trophies
+## 📊 Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0xvanguard&theme=matrix&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xvanguard&theme=react-dark&hide_border=true&color=9400D3&line=CC00FF&point=ffffff&area=true" width="100%"/>
 </p>
 
 ---
