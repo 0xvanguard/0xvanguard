@@ -48,7 +48,7 @@ Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — co
 ## 💼 Experiencia Profesional
 
 ### 🏬 Agunsa Logistics — Técnico en Sistemas
-`Bogotá, Colombia | 2024 – 2025 | Pasantía (6 meses)`
+`Cota, Cundinamarca | 2024 – 2025 | Pasantía (6 meses)`
 
 - 🖥️ Mantenimiento preventivo y correctivo de equipos de cómputo (hardware y software)
 - 🗳️ Gestión y control de inventario de activos tecnológicos
