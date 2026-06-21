@@ -21,7 +21,8 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  root@0xvanguard:~# whoami                               ║
-║  > John Sebastian Camargo — Purple Team Operative       ║
+║  > John Sebastian Camargo — Purple Team Operative        ║
+║  > John Sebastian Camargo — Técnico en Sistemas · DevSecOps en construcción ║
 ║  root@0xvanguard:~# cat mission.txt                      ║
 ║  > Attack like Red. Defend like Blue. Think Purple.      ║
 ║  root@0xvanguard:~# cat motto.txt                        ║
