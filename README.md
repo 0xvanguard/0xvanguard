@@ -49,7 +49,7 @@ Técnico en Sistemas Teleinformáticos construyendo experiencia real en ciberseg
 ## 💼 Experiencia Profesional
 
 ### 🗳️ UT ILE 2026 — Especialista en Seguridad de Infraestructura Electoral
-`Chía, Colombia | Marzo 2026 – Presente`
+`Cundinamarca | Marzo 2026 – Presente`
 
 - 🖥️ Soporte técnico on-site a equipos críticos y usuarios finales bajo alta presión, manteniendo continuidad operativa con downtime mínimo
 - 📋 Gestión de incidencias en sistema de tickets con documentación de soluciones en base de conocimiento interna
