@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CC00FF&center=true&width=700&lines=0xvanguard+%7C+Purple+Team+Operative;Red+%2B+Blue+%3D+Purple+%7C+Attack+%26+Defend;Threat+Hunting+%7C+OSINT+%7C+Automation;Open+to+Global+Collaboration+%7C+AI+%2B+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=CC00FF&center=true&width=700&lines=0xvanguard+%7C+T%C3%A9cnico+en+Sistemas;DevSecOps+Junior+en+construcci%C3%B3n;Threat+Hunting+%7C+OSINT+%7C+Automation;Open+to+Global+Collaboration+%7C+AI+%2B+Security" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,8 +21,8 @@
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║  root@0xvanguard:~# whoami                               ║
-║  > John Sebastian Camargo — Purple Team Operative        ║
-║  > John Sebastian Camargo — Técnico en Sistemas · DevSecOps en construcción ║
+║  > John Sebastian Camargo — Técnico en Sistemas          ║
+║  >   DevSecOps Junior en construcción                    ║
 ║  root@0xvanguard:~# cat mission.txt                      ║
 ║  > Attack like Red. Defend like Blue. Think Purple.      ║
 ║  root@0xvanguard:~# cat motto.txt                        ║
@@ -34,11 +34,11 @@
 
 ## 💼 Sobre Mí
 
-Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — combino automatización, innovación y seguridad para transformar amenazas en oportunidades de resiliencia empresarial.
+Técnico en Sistemas Teleinformáticos construyendo experiencia real en ciberseguridad y DevSecOps. Aprendo de forma autodidacta mientras estudio Ingeniería en Seguridad de la Información. No tengo el título aún — tengo proyectos reales, formación técnica certificada y la mentalidad de alguien que construye antes de que le digan que puede.
 
-- 🔐 Construyo infraestructuras seguras, escalables y automatizadas en Linux y Cloud
-- ⚡ Desarrollo frameworks OSINT en Python que anticipan amenazas emergentes
-- 🧠 Gestión estratégica de riesgos, threat hunting y respuesta a incidentes
+- 🔐 Construyo infraestructuras seguras y automatizadas en Linux con Docker y Ansible
+- ⚡ Desarrollo proyectos OSINT y pipelines CI/CD con controles SAST/DAST integrados
+- 🧠 Administro Active Directory, Microsoft 365, Entra ID e Intune en entornos reales
 - 🎓 Cursando Ingeniería en Seguridad de la Información — Politécnico Grancolombiano
 - 🔥 **350 horas** de especialización en Hacking Ético y DevSecOps — CIIP LATAM
 
@@ -48,14 +48,20 @@ Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — co
 
 ## 💼 Experiencia Profesional
 
-### 🏬 Agunsa Logistics — Técnico en Sistemas
-`Cota, Cundinamarca | 2024 – 2025 | Pasantía (6 meses)`
+### 🗳️ UT ILE 2026 — Especialista en Seguridad de Infraestructura Electoral
+`Chía, Colombia | Marzo 2026 – Presente`
 
-- 🖥️ Mantenimiento preventivo y correctivo de equipos de cómputo (hardware y software)
-- 🗳️ Gestión y control de inventario de activos tecnológicos
-- 🔧 Diagnóstico y reparación de impresoras y periféricos
-- 🤝 Soporte técnico a usuarios finales: resolución de errores de conectividad e internet
-- 🧹 Limpieza y optimización de hardware para mejorar rendimiento operativo
+- 🖥️ Soporte técnico on-site a equipos críticos y usuarios finales bajo alta presión, manteniendo continuidad operativa con downtime mínimo
+- 📋 Gestión de incidencias en sistema de tickets con documentación de soluciones en base de conocimiento interna
+- 🔧 Propuse mejoras a playbooks operativos para estandarizar triage y acelerar respuestas futuras
+
+### 🏬 Agunsa Logistics — Pasante Técnico de Soporte IT
+`Cota, Cundinamarca | Abril 2024 – Agosto 2025`
+
+- 🔐 Administré Active Directory y Microsoft Entra ID resolviendo bloqueos IAM y accesos corporativos para personal de bodega
+- 🖧 Mantenimiento preventivo de cámaras IP Hikvision, escáneres Zebra, impresoras y switches Cisco Catalyst
+- 📝 Construí guías de autoservicio que redujeron tickets L1 recurrentes
+- 📊 Depuré inventario de activos IT y estructuré reportes de ciclo de vida de hardware
 
 ---
 
@@ -88,34 +94,19 @@ Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — co
 ## 🛠️ Skills & Tecnologías
 
 ### Lenguajes & Scripting
-- **Python** (avanzado) · Bash · PowerShell · JavaScript
+- **Python** · Bash · PowerShell · JavaScript
 
-### Infraestructura & Cloud
-- Linux (administración avanzada) · AWS · Azure · GCP · Kubernetes · Docker · Terraform
+### Infraestructura & Sistemas
+- Linux (administración) · Docker · Ansible · CI/CD · Git · GitHub Actions
 
 ### Seguridad & DevSecOps
-- Pentesting · Red Team · Blue Team · OSINT · SIEM (Wazuh, Snort) · MITRE ATT&CK · Respuesta a incidentes · Automatización de seguridad
+- Pentesting · OSINT · SIEM (Wazuh, Splunk) · MITRE ATT&CK · Hardening · CIS Benchmarks · SAST/DAST · Respuesta a incidentes
+
+### IAM & Microsoft
+- Active Directory · Microsoft Entra ID · Microsoft 365 · Intune · GPO
 
 ### Herramientas
-- Burp Suite · Nmap · Metasploit · ZAP · Shodan · Maltego · MobSF · Frida · SQLmap · Git · CI/CD pipelines (Jenkins, GitHub Actions)
-
----
-
-## ⚡ Arsenal — Nivel de Dominio
-
-```diff
-+ Python          ████████████████░░░░ 85%
-+ Linux/Cloud     ██████████████████░░ 90%
-+ DevSecOps       ███████████████████░ 95%
-+ Automation      █████████████████░░░ 85%
-+ Kubernetes      █████████████░░░░░░░ 75%
-+ AWS             ████████████████░░░░ 80%
-+ Pentesting      ████████████░░░░░░░░ 65%
-+ OSINT           ████████████░░░░░░░░ 65%
-+ Threat Hunting  ██████████████░░░░░░ 70%
-+ Incident Resp.  █████████████░░░░░░░ 65%
-+ AI Automation   ███████████████░░░░░ 75%
-```
+- Burp Suite · Nmap · Metasploit · ZAP · Shodan · Maltego · SQLmap · GitHub Actions
 
 ---
 
@@ -123,7 +114,7 @@ Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — co
 
 ### 🌖 Educación
 - 🎓 Ingeniería en Seguridad de la Información | **Politécnico Grancolombiano** *(2026 – 2030)*
-- 🎓 Técnico en Sistemas Teleinformáticos | **SENA** *(2024 – 2025)*
+- 🎓 Técnico en Sistemas Teleinformáticos | **SENA** *(2024 – 2025)* | Promedio 4.5/4.5
 
 ### 🔥 Especialización — 350 horas en Hacking Ético y DevSecOps | CIIP LATAM *(2025)*
 
@@ -133,7 +124,7 @@ Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — co
 | 🔵 Bloque de Defensa (SOC / Blue Team) | SIEM · Wazuh · Snort · Respuesta a Incidentes |
 | 📱 Seguridad en Apps Web & Phishing | Burp Suite · SQLmap · OWASP Top 10 · Phishing |
 | 📱 Hacking Ético Móvil | Pentesting Móvil · MobSF · Frida · ADB |
-| ☁️ DevSecOps & Cloud Security | Docker · Kubernetes · AWS · SAST · DAST · Jenkins · OWASP Top 10 API |
+| ☁️ DevSecOps & Cloud Security | Docker · Ansible · SAST · DAST · GitHub Actions · OWASP Top 10 API |
 
 ### 📜 Certificaciones Adicionales
 
@@ -146,12 +137,12 @@ Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — co
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto               | Descripción                                                            | Tecnologías                  | Impacto                                         |
-|------------------------|------------------------------------------------------------------------|------------------------------|-------------------------------------------------|
-| **Framework-OSINT**    | Automatiza la recolección y análisis de inteligencia OSINT             | Python, APIs                 | +30% eficiencia en tareas automatizadas          |
-| **Job Search Roadmap** | Guía exhaustiva para optimizar la búsqueda de empleo en tecnología     | Markdown, Estrategia         | +1000 descargas y destacados en LinkedIn         |
-| **SecOps Automation**  | Scripts y pipelines para automatización de detección de amenazas       | Python, Bash, GitHub Actions | Reducción de tiempo de respuesta en incidentes   |
-| **DevSecOps Lab**      | Laboratorio personal con entornos de prueba para pentesting y análisis | Docker, Kali, Metasploit     | Entorno reproducible para CTFs y red teaming     |
+| Proyecto               | Descripción                                                            | Tecnologías                  | Estado                        |
+|------------------------|------------------------------------------------------------------------|------------------------------|-------------------------------|
+| **Framework-OSINT**    | Automatiza la recolección y análisis de inteligencia OSINT             | Python, APIs                 | Activo                        |
+| **Job Search Roadmap** | Guía para optimizar la búsqueda de empleo en tecnología                | Markdown, Estrategia         | Recurso público open source   |
+| **SecOps Automation**  | Scripts y pipelines para automatización de detección de amenazas       | Python, Bash, GitHub Actions | Activo                        |
+| **DevSecOps Lab**      | Laboratorio personal para pentesting y análisis de seguridad           | Docker, Kali, Metasploit     | Activo                        |
 
 ---
 
@@ -160,17 +151,15 @@ Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — co
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![EC-Council](https://img.shields.io/badge/EC--Council-FF0000?style=for-the-badge&logo=ec-council&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 
 ---
 
@@ -205,7 +194,7 @@ Profesional en **DevSecOps y ciberseguridad** con enfoque **Purple Team** — co
 
 ## 🤝 Soft Skills
 
-- 💬 Comunicación efectiva y liderazgo técnico
+- 💬 Comunicación efectiva y documentación técnica clara
 - 🧠 Resolución creativa de problemas complejos
 - 🤝 Trabajo colaborativo y multidisciplinario
 - 📋 Gestión ágil de proyectos (Scrum, Kanban)
