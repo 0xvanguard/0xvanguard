@@ -13,7 +13,7 @@
 
 **`Security Analyst · AppSec · OSINT · Blue Team · DevSecOps`**
 
-[![Location](https://img.shields.io/badge/📍-Chía%2C%20Colombia-0d1117?style=flat-square&labelColor=161b22)](https://github.com/0xvanguard)
+[![Location](https://img.shields.io/badge/📍-Bogota%2C%20Colombia-0d1117?style=flat-square&labelColor=161b22)](https://github.com/0xvanguard)
 [![Focus](https://img.shields.io/badge/Focus-Cybersecurity%20%7C%20AI%20Security-a855f7?style=flat-square&labelColor=161b22)](https://github.com/0xvanguard)
 [![Status](https://img.shields.io/badge/Status-Open%20to%20Remote%20Work-22c55e?style=flat-square&labelColor=161b22)](https://github.com/0xvanguard)
 
