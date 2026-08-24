@@ -56,24 +56,25 @@ Security practitioner from Colombia focused on **applied offensive and defensive
 
 | Project | Description | Frameworks |
 |---|---|---|
-| [`writeups-portswigger`](#) | Technical writeups of PortSwigger Web Security Academy labs — SQL injection, XSS, SSRF, IDOR, Web LLM attacks. Each writeup follows OWASP WSTG format with executive summary + finding + evidence + remediation | OWASP WSTG · CWE |
-| [`api-security-labs`](#) | Practical analysis of OWASP API Security Top 10 vulnerabilities on intentionally vulnerable apps (crAPI, vAPI). Documented with risk impact and fix | OWASP API Top 10 |
-| [`osint-recon-toolkit`](#) | Python automation for OSINT recon workflows — passive fingerprinting, data aggregation, report generation | PTES Recon Phase |
+| [`GovLLM-Sentinel`](https://github.com/0xvanguard/GovLLM-Sentinel) | Framework de evaluación y hardening de LLMs para sector público — PII Guard, Compliance Filter, Alignment Module, Red-Teaming con 13 vectores de ataque, 40 tests | AI Security · LLM · Docker |
+| [`osint-exposure-report`](https://github.com/0xvanguard/osint-exposure-report) | Automated OSINT recon tool — generates professional PDF exposure reports for companies. Subdomains, DNS, ports, emails, IP reputation. 37 tests + CI | Python · nmap · ReportLab |
+| [`hibp-audit-tool`](https://github.com/0xvanguard/hibp-audit-tool) | Automated password breach audit using HIBP API v3 — generates PDF/Excel reports in Spanish with risk scoring per employee. 17 tests + CI | Python · HIBP · ReportLab |
+| [`gophish-phishing-simulator`](https://github.com/0xvanguard/gophish-phishing-simulator) | Phishing campaign automation via GoPhish API — generates professional PDF reports with risk scores per employee. 10 tests + CI | Python · GoPhish · ReportLab |
 
-### 🔵 Blue Team & Detection Engineering
-
-| Project | Description | Frameworks |
-|---|---|---|
-| [`wazuh-homelab-siem`](#) | Full Wazuh deployment on local VM — agent enrollment, custom rules, log analysis, alert tuning. Documented as a production-grade implementation report | MITRE ATT&CK · Wazuh |
-| [`mitre-detection-rules`](#) | Custom Wazuh/Sigma detection rules mapped to MITRE ATT&CK techniques (T1059, T1078, T1190). Includes TP/FP analysis per rule | MITRE ATT&CK |
-| [`log-analysis-lab`](#) | Structured log analysis exercises — identifying C2 beaconing, brute force patterns, lateral movement indicators in raw Apache/auth logs | MITRE · Sigma |
-
-### 🟣 Purple Team / Documentation
+### 🟡 OSINT & Intelligence
 
 | Project | Description | Frameworks |
 |---|---|---|
-| [`pentest-report-template`](#) | Professional penetration test report template following OWASP WSTG + PTES structure: executive summary → scope → findings → CVSS scoring → remediations | OWASP · PTES · CVSS |
-| [`trillion-income-streams`](https://github.com/0xvanguard/trillion-income-streams) | Web platform organizing income vectors with hacker-style UI, Docker backend and Grafana dashboard | Python · FastAPI · Docker |
+| [`cyberremote-monitor-pro`](https://github.com/0xvanguard/cyberremote-monitor-pro) | Global intelligence board for remote cybersecurity jobs — 3D globe, choropleth maps, signal feed, government mode. React + FastAPI + PostgreSQL. 21 tests + CI | React · FastAPI · globe.gl |
+| [`bug-bounty-vault`](https://github.com/0xvanguard/bug-bounty-vault) | Educational bug bounty platform — 12-week roadmap, 40+ tools guide, first-$500 guide, hunter tracker. Interactive dashboard with Matrix background | HTML · CSS · JS |
+| [`latam-cybersecurity-salaries-2026`](https://github.com/0xvanguard/latam-cybersecurity-salaries-2026) | Visual analysis of cybersecurity salaries in LATAM — local vs remote US/EU comparison with interactive Chart.js dashboard | HTML · Chart.js |
+
+### 🔵 Education & Labs
+
+| Project | Description | Frameworks |
+|---|---|---|
+| [`0xVKRAD-Evolution-Academy`](https://github.com/0xvanguard/0xVKRAD-Evolution-Academy) | Offensive cybersecurity academy — missions, Docker labs, XP progression system, writeup templates. Spanish, free, no filters | Docker · Flask · MySQL |
+| [`cognitive-tracker`](https://github.com/0xvanguard/cognitive-tracker) | Personal cognitive performance tracker — IQ, memory, logic & focus tests with progress analytics and AI coach. Python + FastAPI + Streamlit | Python · FastAPI · Streamlit |
 
 ---
 
